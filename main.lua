@@ -2,8 +2,8 @@ local MvMod = RegisterMod("MvMod", 1);
 local Tequito = Isaac.GetItemIdByName("Tequito");
 
 local count = 0
-local damageUp = 0.4
-local upMax = 5
+local damageUp = 0.25
+local upMax = 20
 local done = false
 
 function MvMod:UseTequito()

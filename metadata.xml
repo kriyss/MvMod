@@ -24,7 +24,9 @@ If you have any of theses, please send it to me at mvmodsound@gmail.com.
 and others
 
 </description>
-    <version>1.5</version>
+    <version>1.6</version>
     <visibility>Public</visibility>
+    <tag id="Items"/>
+    <tag id="Active Items"/>
     <tag id="Sound Effects"/>
 </metadata>
