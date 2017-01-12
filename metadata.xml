@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>MVmod</name>
+    <directory>boi-mv</directory>
+    <id>836213592</id>
+    <description>mv's comments when you play
+
+Todo: 
+
+- add &quot;ptit criket's head ?&quot;  when opening a chest
+- add &quot;PAAAFF&quot; when booss die
+- add &quot;Oh le dime&quot; when get a dime
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Missing sound : 
+
+If you have any of theses, please send it to me at mvmodsound@gmail.com.
+
+- &quot;brillant comme un diamant&quot;
+- &quot;ptit crickets head&quot;
+- &quot;je suis un petit chat&quot;
+- &quot;la moule magique&quot;
+
+and others
+
+</description>
+    <version>1.5</version>
+    <visibility>Public</visibility>
+    <tag id="Sound Effects"/>
+</metadata>
